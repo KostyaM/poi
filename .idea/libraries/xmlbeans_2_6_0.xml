@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="xmlbeans-2.6.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/poi-3.16/poi-scratchpad-3.16.jar!/" />
+      <root url="jar://$PROJECT_DIR$/poi-3.16/poi-ooxml-schemas-3.16.jar!/" />
+      <root url="jar://$PROJECT_DIR$/poi-3.16/poi-ooxml-3.16.jar!/" />
+      <root url="jar://$PROJECT_DIR$/poi-3.16/poi-excelant-3.16.jar!/" />
+      <root url="jar://$PROJECT_DIR$/poi-3.16/poi-3.16.jar!/" />
+      <root url="jar://$PROJECT_DIR$/poi-3.16/commons-collections4-4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/poi-3.16/xmlbeans-2.6.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
